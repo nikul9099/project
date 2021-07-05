@@ -1,0 +1,35 @@
+.drag-frm-section{
+	background: #fff;
+    padding: 20px;
+    margin: 20px;
+    height: 100vh;
+}	
+.drag-frm-cols{
+	flex: 1;
+    display: flex;
+    overflow: hidden;
+}
+.drag-frm-cols .drag-frm-sidebar{
+	width: 20%;
+	padding: 10px;
+	border-right: 1px solid #444;
+	height: auto;
+}
+.drag-frm-cols .drag-frm-panel-body{
+	width: 80%;
+	padding: 10px;
+}
+.frm-field-list ul{
+	display: flex;
+	flex-direction: column;
+    flex-wrap: wrap;
+    height: 100px;	
+}
+#droppable {
+  padding: 20px;
+  background: #eee;
+  min-height: 100px;
+  margin-bottom: 20px;
+  z-index: 0;
+  border-radius: 10px;
+}

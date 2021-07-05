@@ -1,0 +1,16 @@
+2021-05-25T04:30:48+00:00 CRITICAL syntax error, unexpected '}', expecting ';' in C:\xampp\htdocs\project\wp-content\themes\twentytwenty-child\functions.php on line 533
+
+2021-05-25T05:20:54+00:00 CRITICAL syntax error, unexpected '++' (T_INC), expecting variable (T_VARIABLE) or '{' or '$' in C:\xampp\htdocs\project\wp-content\themes\twentytwenty-child\templates\home.php on line 30
+
+2021-05-25T05:20:54+00:00 CRITICAL syntax error, unexpected '++' (T_INC), expecting variable (T_VARIABLE) or '{' or '$' in C:\xampp\htdocs\project\wp-content\themes\twentytwenty-child\templates\home.php on line 30
+
+2021-05-25T05:21:16+00:00 CRITICAL syntax error, unexpected '++' (T_INC), expecting variable (T_VARIABLE) or '{' or '$' in C:\xampp\htdocs\project\wp-content\themes\twentytwenty-child\templates\home.php on line 30
+
+2021-05-25T05:46:26+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\project\wp-content\themes\twentytwenty-child\functions.php on line 561
+
+2021-05-25T05:47:04+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\project\wp-content\themes\twentytwenty-child\functions.php on line 561
+
+2021-05-25T05:47:04+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\project\wp-content\themes\twentytwenty-child\functions.php on line 561
+
+2021-05-25T05:49:17+00:00 CRITICAL syntax error, unexpected '.' in C:\xampp\htdocs\project\wp-content\themes\twentytwenty-child\functions.php on line 533
+

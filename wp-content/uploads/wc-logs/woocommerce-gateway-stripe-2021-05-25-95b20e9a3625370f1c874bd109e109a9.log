@@ -1,0 +1,1748 @@
+2021-05-25T06:49:34+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B request: Array
+(
+)
+
+====End Log====
+
+
+2021-05-25T06:49:35+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+customers/cus_JY01howS4KcTDk request: Array
+(
+    [email] => project@gmail.com
+    [description] => Name: test test, Username: project
+    [name] => test test
+    [metadata] => Array
+        (
+        )
+
+    [preferred_locales] => Array
+        (
+            [0] => en-US
+        )
+
+)
+
+====End Log====
+
+
+2021-05-25T06:49:36+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+sources/src_1Iuu1cGDUloqQNkUI6p47biA
+====End Log====
+
+
+2021-05-25T06:49:36+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+Info: Begin processing payment for order 542 for the amount of 25.00
+====End Log====
+
+
+2021-05-25T06:49:36+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B request: Array
+(
+    [source] => src_1Iuu1cGDUloqQNkUI6p47biA
+    [setup_future_usage] => off_session
+)
+
+====End Log====
+
+
+2021-05-25T06:49:37+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B/confirm request: Array
+(
+    [source] => src_1Iuu1cGDUloqQNkUI6p47biA
+)
+
+====End Log====
+
+
+2021-05-25T06:49:39+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B request: Array
+(
+)
+
+====End Log====
+
+
+2021-05-25T06:49:39+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+customers/cus_JY01howS4KcTDk request: Array
+(
+    [email] => project@gmail.com
+    [description] => Name: test test, Username: project
+    [name] => test test
+    [metadata] => Array
+        (
+        )
+
+    [preferred_locales] => Array
+        (
+            [0] => en-US
+        )
+
+)
+
+====End Log====
+
+
+2021-05-25T06:49:40+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+sources/src_1Iuu1cGDUloqQNkUI6p47biA
+====End Log====
+
+
+2021-05-25T06:49:40+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+Info: Begin processing payment for order 542 for the amount of 25.00
+====End Log====
+
+
+2021-05-25T06:49:40+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B request: Array
+(
+    [source] => src_1Iuu1cGDUloqQNkUI6p47biA
+    [setup_future_usage] => off_session
+)
+
+====End Log====
+
+
+2021-05-25T06:49:41+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B/confirm request: Array
+(
+    [source] => src_1Iuu1cGDUloqQNkUI6p47biA
+)
+
+====End Log====
+
+
+2021-05-25T06:49:44+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B request: Array
+(
+)
+
+====End Log====
+
+
+2021-05-25T06:49:45+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+sources/src_1Iuu1cGDUloqQNkUI6p47biA
+====End Log====
+
+
+2021-05-25T06:49:45+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+Info: Begin processing payment for order 542 for the amount of 25.00
+====End Log====
+
+
+2021-05-25T06:49:45+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B request: Array
+(
+    [source] => src_1Iuu1cGDUloqQNkUI6p47biA
+    [setup_future_usage] => off_session
+)
+
+====End Log====
+
+
+2021-05-25T06:49:46+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B/confirm request: Array
+(
+    [source] => src_1Iuu1cGDUloqQNkUI6p47biA
+)
+
+====End Log====
+
+
+2021-05-25T06:49:50+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B request: Array
+(
+)
+
+====End Log====
+
+
+2021-05-25T06:49:51+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+sources/src_1Iuu1cGDUloqQNkUI6p47biA
+====End Log====
+
+
+2021-05-25T06:49:51+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+Info: Begin processing payment for order 542 for the amount of 25.00
+====End Log====
+
+
+2021-05-25T06:49:51+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B request: Array
+(
+    [source] => src_1Iuu1cGDUloqQNkUI6p47biA
+    [setup_future_usage] => off_session
+)
+
+====End Log====
+
+
+2021-05-25T06:49:52+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B/confirm request: Array
+(
+    [source] => src_1Iuu1cGDUloqQNkUI6p47biA
+)
+
+====End Log====
+
+
+2021-05-25T06:49:57+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B request: Array
+(
+)
+
+====End Log====
+
+
+2021-05-25T06:49:58+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+sources/src_1Iuu1cGDUloqQNkUI6p47biA
+====End Log====
+
+
+2021-05-25T06:49:58+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+Info: Begin processing payment for order 542 for the amount of 25.00
+====End Log====
+
+
+2021-05-25T06:49:58+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B request: Array
+(
+    [source] => src_1Iuu1cGDUloqQNkUI6p47biA
+    [setup_future_usage] => off_session
+)
+
+====End Log====
+
+
+2021-05-25T06:49:59+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B/confirm request: Array
+(
+    [source] => src_1Iuu1cGDUloqQNkUI6p47biA
+)
+
+====End Log====
+
+
+2021-05-25T06:50:00+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B request: Array
+(
+)
+
+====End Log====
+
+
+2021-05-25T06:50:01+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+sources/src_1Iuu1cGDUloqQNkUI6p47biA
+====End Log====
+
+
+2021-05-25T06:50:01+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+Info: Begin processing payment for order 542 for the amount of 25.00
+====End Log====
+
+
+2021-05-25T06:50:01+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B request: Array
+(
+    [source] => src_1Iuu1cGDUloqQNkUI6p47biA
+    [setup_future_usage] => off_session
+)
+
+====End Log====
+
+
+2021-05-25T06:50:02+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B/confirm request: Array
+(
+    [source] => src_1Iuu1cGDUloqQNkUI6p47biA
+)
+
+====End Log====
+
+
+2021-05-25T06:50:03+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+Error: stdClass Object
+(
+    [error] => stdClass Object
+        (
+            [message] => Non-INR transactions in India should have shipping/billing address outside India. More info here: https://stripe.com/docs/india-exports
+            [payment_intent] => stdClass Object
+                (
+                    [id] => pi_1Iuu1jGDUloqQNkUUUIjUy5B
+                    [object] => payment_intent
+                    [amount] => 2500
+                    [amount_capturable] => 0
+                    [amount_received] => 0
+                    [application] => 
+                    [application_fee_amount] => 
+                    [canceled_at] => 
+                    [cancellation_reason] => 
+                    [capture_method] => automatic
+                    [charges] => stdClass Object
+                        (
+                            [object] => list
+                            [data] => Array
+                                (
+                                )
+
+                            [has_more] => 
+                            [total_count] => 0
+                            [url] => /v1/charges?payment_intent=pi_1Iuu1jGDUloqQNkUUUIjUy5B
+                        )
+
+                    [client_secret] => pi_1Iuu1jGDUloqQNkUUUIjUy5B_secret_iMscN6yhfLoBPRdu7yTBbn8T9
+                    [confirmation_method] => automatic
+                    [created] => 1621925167
+                    [currency] => gbp
+                    [customer] => cus_JY01howS4KcTDk
+                    [description] => Read More - Order 542
+                    [invoice] => 
+                    [last_payment_error] => stdClass Object
+                        (
+                            [message] => Non-INR transactions in India should have shipping/billing address outside India. More info here: https://stripe.com/docs/india-exports
+                            [shield_action] => reject
+                            [shield_failure] => 1
+                            [source] => stdClass Object
+                                (
+                                    [id] => src_1Iuu1cGDUloqQNkUI6p47biA
+                                    [object] => source
+                                    [amount] => 
+                                    [card] => stdClass Object
+                                        (
+                                            [exp_month] => 4
+                                            [exp_year] => 2024
+                                            [last4] => 4242
+                                            [country] => US
+                                            [brand] => Visa
+                                            [address_line1_check] => pass
+                                            [address_zip_check] => pass
+                                            [cvc_check] => pass
+                                            [funding] => credit
+                                            [fingerprint] => OdEJRvSbaqXPhsLC
+                                            [three_d_secure] => optional
+                                            [name] => 
+                                            [tokenization_method] => 
+                                            [dynamic_last4] => 
+                                        )
+
+                                    [client_secret] => src_client_secret_h9M9pTmx1OswS8u7WaRHmmSY
+                                    [created] => 1621925160
+                                    [currency] => 
+                                    [customer] => cus_JY01howS4KcTDk
+                                    [flow] => none
+                                    [livemode] => 
+                                    [metadata] => stdClass Object
+                                        (
+                                        )
+
+                                    [owner] => stdClass Object
+                                        (
+                                            [address] => stdClass Object
+                                                (
+                                                    [city] => test
+                                                    [country] => IN
+                                                    [line1] => test
+                                                    [line2] => 
+                                                    [postal_code] => 395006
+                                                    [state] => AS
+                                                )
+
+                                            [email] => test5@gmail.com
+                                            [name] => test test
+                                            [phone] => 1234567890
+                                            [verified_address] => 
+                                            [verified_email] => 
+                                            [verified_name] => 
+                                            [verified_phone] => 
+                                        )
+
+                                    [statement_descriptor] => 
+                                    [status] => chargeable
+                                    [type] => card
+                                    [usage] => reusable
+                                )
+
+                            [type] => invalid_request_error
+                        )
+
+                    [livemode] => 
+                    [metadata] => stdClass Object
+                        (
+                            [customer_name] => test test
+                            [customer_email] => test5@gmail.com
+                            [order_id] => 542
+                            [site_url] => http://localhost/project
+                            [payment_type] => recurring
+                        )
+
+                    [next_action] => 
+                    [on_behalf_of] => 
+                    [payment_method] => 
+                    [payment_method_options] => stdClass Object
+                        (
+                            [card] => stdClass Object
+                                (
+                                    [installments] => 
+                                    [network] => 
+                                    [request_three_d_secure] => automatic
+                                )
+
+                        )
+
+                    [payment_method_types] => Array
+                        (
+                            [0] => card
+                        )
+
+                    [receipt_email] => 
+                    [review] => 
+                    [setup_future_usage] => off_session
+                    [shipping] => stdClass Object
+                        (
+                            [address] => stdClass Object
+                                (
+                                    [city] => test
+                                    [country] => IN
+                                    [line1] => test
+                                    [line2] => 
+                                    [postal_code] => 395006
+                                    [state] => AS
+                                )
+
+                            [carrier] => 
+                            [name] => test test
+                            [phone] => 
+                            [tracking_number] => 
+                        )
+
+                    [source] => 
+                    [statement_descriptor] => 
+                    [statement_descriptor_suffix] => 
+                    [status] => requires_payment_method
+                    [transfer_data] => 
+                    [transfer_group] => 
+                )
+
+            [shield_action] => reject
+            [shield_failure] => 1
+            [source] => stdClass Object
+                (
+                    [id] => src_1Iuu1cGDUloqQNkUI6p47biA
+                    [object] => source
+                    [amount] => 
+                    [card] => stdClass Object
+                        (
+                            [exp_month] => 4
+                            [exp_year] => 2024
+                            [last4] => 4242
+                            [country] => US
+                            [brand] => Visa
+                            [address_line1_check] => pass
+                            [address_zip_check] => pass
+                            [cvc_check] => pass
+                            [funding] => credit
+                            [fingerprint] => OdEJRvSbaqXPhsLC
+                            [three_d_secure] => optional
+                            [name] => 
+                            [tokenization_method] => 
+                            [dynamic_last4] => 
+                        )
+
+                    [client_secret] => src_client_secret_h9M9pTmx1OswS8u7WaRHmmSY
+                    [created] => 1621925160
+                    [currency] => 
+                    [customer] => cus_JY01howS4KcTDk
+                    [flow] => none
+                    [livemode] => 
+                    [metadata] => stdClass Object
+                        (
+                        )
+
+                    [owner] => stdClass Object
+                        (
+                            [address] => stdClass Object
+                                (
+                                    [city] => test
+                                    [country] => IN
+                                    [line1] => test
+                                    [line2] => 
+                                    [postal_code] => 395006
+                                    [state] => AS
+                                )
+
+                            [email] => test5@gmail.com
+                            [name] => test test
+                            [phone] => 1234567890
+                            [verified_address] => 
+                            [verified_email] => 
+                            [verified_name] => 
+                            [verified_phone] => 
+                        )
+
+                    [statement_descriptor] => 
+                    [status] => chargeable
+                    [type] => card
+                    [usage] => reusable
+                )
+
+            [type] => invalid_request_error
+        )
+
+)
+
+====End Log====
+
+
+2021-05-25T06:50:06+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+customers/cus_JY01howS4KcTDk/sources request: Array
+(
+    [limit] => 100
+)
+
+====End Log====
+
+
+2021-05-25T06:50:55+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B request: Array
+(
+)
+
+====End Log====
+
+
+2021-05-25T06:50:56+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+sources/src_1Iuu6KGDUloqQNkUy2TsWiYu
+====End Log====
+
+
+2021-05-25T06:50:56+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+customers/cus_JY01howS4KcTDk/sources request: Array
+(
+    [source] => src_1Iuu6KGDUloqQNkUy2TsWiYu
+)
+
+====End Log====
+
+
+2021-05-25T06:50:57+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+customers/cus_JY01howS4KcTDk request: Array
+(
+    [email] => project@gmail.com
+    [description] => Name: test test, Username: project
+    [name] => test test
+    [metadata] => Array
+        (
+        )
+
+    [preferred_locales] => Array
+        (
+            [0] => en-US
+        )
+
+)
+
+====End Log====
+
+
+2021-05-25T06:50:58+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+Info: Begin processing payment for order 542 for the amount of 25.00
+====End Log====
+
+
+2021-05-25T06:50:58+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B request: Array
+(
+    [source] => src_1Iuu6KGDUloqQNkUy2TsWiYu
+    [setup_future_usage] => off_session
+)
+
+====End Log====
+
+
+2021-05-25T06:50:58+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B/confirm request: Array
+(
+    [source] => src_1Iuu6KGDUloqQNkUy2TsWiYu
+)
+
+====End Log====
+
+
+2021-05-25T06:51:01+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B request: Array
+(
+)
+
+====End Log====
+
+
+2021-05-25T06:51:01+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+sources/src_1Iuu6KGDUloqQNkUy2TsWiYu
+====End Log====
+
+
+2021-05-25T06:51:02+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+customers/cus_JY01howS4KcTDk/sources request: Array
+(
+    [source] => src_1Iuu6KGDUloqQNkUy2TsWiYu
+)
+
+====End Log====
+
+
+2021-05-25T06:51:02+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+sources/src_1Iuu6KGDUloqQNkUy2TsWiYu request: Array
+(
+)
+
+====End Log====
+
+
+2021-05-25T06:51:03+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+customers/cus_JY01howS4KcTDk request: Array
+(
+    [email] => project@gmail.com
+    [description] => Name: test test, Username: project
+    [name] => test test
+    [metadata] => Array
+        (
+        )
+
+    [preferred_locales] => Array
+        (
+            [0] => en-US
+        )
+
+)
+
+====End Log====
+
+
+2021-05-25T06:51:03+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+Info: Begin processing payment for order 542 for the amount of 25.00
+====End Log====
+
+
+2021-05-25T06:51:03+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B request: Array
+(
+    [source] => src_1Iuu6KGDUloqQNkUy2TsWiYu
+    [setup_future_usage] => off_session
+)
+
+====End Log====
+
+
+2021-05-25T06:51:04+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B/confirm request: Array
+(
+    [source] => src_1Iuu6KGDUloqQNkUy2TsWiYu
+)
+
+====End Log====
+
+
+2021-05-25T06:51:07+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B request: Array
+(
+)
+
+====End Log====
+
+
+2021-05-25T06:51:07+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+sources/src_1Iuu6KGDUloqQNkUy2TsWiYu
+====End Log====
+
+
+2021-05-25T06:51:08+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+Info: Begin processing payment for order 542 for the amount of 25.00
+====End Log====
+
+
+2021-05-25T06:51:08+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B request: Array
+(
+    [source] => src_1Iuu6KGDUloqQNkUy2TsWiYu
+    [setup_future_usage] => off_session
+)
+
+====End Log====
+
+
+2021-05-25T06:51:09+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B/confirm request: Array
+(
+    [source] => src_1Iuu6KGDUloqQNkUy2TsWiYu
+)
+
+====End Log====
+
+
+2021-05-25T06:51:13+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B request: Array
+(
+)
+
+====End Log====
+
+
+2021-05-25T06:51:13+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+sources/src_1Iuu6KGDUloqQNkUy2TsWiYu
+====End Log====
+
+
+2021-05-25T06:51:14+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+Info: Begin processing payment for order 542 for the amount of 25.00
+====End Log====
+
+
+2021-05-25T06:51:14+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B request: Array
+(
+    [source] => src_1Iuu6KGDUloqQNkUy2TsWiYu
+    [setup_future_usage] => off_session
+)
+
+====End Log====
+
+
+2021-05-25T06:51:14+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B/confirm request: Array
+(
+    [source] => src_1Iuu6KGDUloqQNkUy2TsWiYu
+)
+
+====End Log====
+
+
+2021-05-25T06:51:20+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B request: Array
+(
+)
+
+====End Log====
+
+
+2021-05-25T06:51:20+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+sources/src_1Iuu6KGDUloqQNkUy2TsWiYu
+====End Log====
+
+
+2021-05-25T06:51:21+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+Info: Begin processing payment for order 542 for the amount of 25.00
+====End Log====
+
+
+2021-05-25T06:51:21+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B request: Array
+(
+    [source] => src_1Iuu6KGDUloqQNkUy2TsWiYu
+    [setup_future_usage] => off_session
+)
+
+====End Log====
+
+
+2021-05-25T06:51:21+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B/confirm request: Array
+(
+    [source] => src_1Iuu6KGDUloqQNkUy2TsWiYu
+)
+
+====End Log====
+
+
+2021-05-25T06:51:23+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B request: Array
+(
+)
+
+====End Log====
+
+
+2021-05-25T06:51:23+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+sources/src_1Iuu6KGDUloqQNkUy2TsWiYu
+====End Log====
+
+
+2021-05-25T06:51:24+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+Info: Begin processing payment for order 542 for the amount of 25.00
+====End Log====
+
+
+2021-05-25T06:51:24+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B request: Array
+(
+    [source] => src_1Iuu6KGDUloqQNkUy2TsWiYu
+    [setup_future_usage] => off_session
+)
+
+====End Log====
+
+
+2021-05-25T06:51:24+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B/confirm request: Array
+(
+    [source] => src_1Iuu6KGDUloqQNkUy2TsWiYu
+)
+
+====End Log====
+
+
+2021-05-25T06:51:26+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+Error: stdClass Object
+(
+    [error] => stdClass Object
+        (
+            [message] => Non-INR transactions in India should have shipping/billing address outside India. More info here: https://stripe.com/docs/india-exports
+            [payment_intent] => stdClass Object
+                (
+                    [id] => pi_1Iuu1jGDUloqQNkUUUIjUy5B
+                    [object] => payment_intent
+                    [amount] => 2500
+                    [amount_capturable] => 0
+                    [amount_received] => 0
+                    [application] => 
+                    [application_fee_amount] => 
+                    [canceled_at] => 
+                    [cancellation_reason] => 
+                    [capture_method] => automatic
+                    [charges] => stdClass Object
+                        (
+                            [object] => list
+                            [data] => Array
+                                (
+                                )
+
+                            [has_more] => 
+                            [total_count] => 0
+                            [url] => /v1/charges?payment_intent=pi_1Iuu1jGDUloqQNkUUUIjUy5B
+                        )
+
+                    [client_secret] => pi_1Iuu1jGDUloqQNkUUUIjUy5B_secret_iMscN6yhfLoBPRdu7yTBbn8T9
+                    [confirmation_method] => automatic
+                    [created] => 1621925167
+                    [currency] => gbp
+                    [customer] => cus_JY01howS4KcTDk
+                    [description] => Read More - Order 542
+                    [invoice] => 
+                    [last_payment_error] => stdClass Object
+                        (
+                            [message] => Non-INR transactions in India should have shipping/billing address outside India. More info here: https://stripe.com/docs/india-exports
+                            [shield_action] => reject
+                            [shield_failure] => 1
+                            [source] => stdClass Object
+                                (
+                                    [id] => src_1Iuu6KGDUloqQNkUy2TsWiYu
+                                    [object] => source
+                                    [amount] => 
+                                    [card] => stdClass Object
+                                        (
+                                            [exp_month] => 2
+                                            [exp_year] => 2022
+                                            [last4] => 5556
+                                            [country] => US
+                                            [brand] => Visa
+                                            [address_line1_check] => pass
+                                            [address_zip_check] => pass
+                                            [cvc_check] => pass
+                                            [funding] => debit
+                                            [fingerprint] => yF9v0lhinfvbfs6q
+                                            [three_d_secure] => optional
+                                            [name] => 
+                                            [tokenization_method] => 
+                                            [dynamic_last4] => 
+                                        )
+
+                                    [client_secret] => src_client_secret_Xkd3tghdLe6RQT2qfIuVhKpi
+                                    [created] => 1621925452
+                                    [currency] => 
+                                    [customer] => cus_JY01howS4KcTDk
+                                    [flow] => none
+                                    [livemode] => 
+                                    [metadata] => stdClass Object
+                                        (
+                                        )
+
+                                    [owner] => stdClass Object
+                                        (
+                                            [address] => stdClass Object
+                                                (
+                                                    [city] => test
+                                                    [country] => IN
+                                                    [line1] => test
+                                                    [line2] => 
+                                                    [postal_code] => 395006
+                                                    [state] => AS
+                                                )
+
+                                            [email] => test5@gmail.com
+                                            [name] => test test
+                                            [phone] => 1234567890
+                                            [verified_address] => 
+                                            [verified_email] => 
+                                            [verified_name] => 
+                                            [verified_phone] => 
+                                        )
+
+                                    [statement_descriptor] => 
+                                    [status] => chargeable
+                                    [type] => card
+                                    [usage] => reusable
+                                )
+
+                            [type] => invalid_request_error
+                        )
+
+                    [livemode] => 
+                    [metadata] => stdClass Object
+                        (
+                            [customer_name] => test test
+                            [customer_email] => test5@gmail.com
+                            [order_id] => 542
+                            [site_url] => http://localhost/project
+                            [payment_type] => recurring
+                        )
+
+                    [next_action] => 
+                    [on_behalf_of] => 
+                    [payment_method] => 
+                    [payment_method_options] => stdClass Object
+                        (
+                            [card] => stdClass Object
+                                (
+                                    [installments] => 
+                                    [network] => 
+                                    [request_three_d_secure] => automatic
+                                )
+
+                        )
+
+                    [payment_method_types] => Array
+                        (
+                            [0] => card
+                        )
+
+                    [receipt_email] => 
+                    [review] => 
+                    [setup_future_usage] => off_session
+                    [shipping] => stdClass Object
+                        (
+                            [address] => stdClass Object
+                                (
+                                    [city] => test
+                                    [country] => IN
+                                    [line1] => test
+                                    [line2] => 
+                                    [postal_code] => 395006
+                                    [state] => AS
+                                )
+
+                            [carrier] => 
+                            [name] => test test
+                            [phone] => 
+                            [tracking_number] => 
+                        )
+
+                    [source] => 
+                    [statement_descriptor] => 
+                    [statement_descriptor_suffix] => 
+                    [status] => requires_payment_method
+                    [transfer_data] => 
+                    [transfer_group] => 
+                )
+
+            [shield_action] => reject
+            [shield_failure] => 1
+            [source] => stdClass Object
+                (
+                    [id] => src_1Iuu6KGDUloqQNkUy2TsWiYu
+                    [object] => source
+                    [amount] => 
+                    [card] => stdClass Object
+                        (
+                            [exp_month] => 2
+                            [exp_year] => 2022
+                            [last4] => 5556
+                            [country] => US
+                            [brand] => Visa
+                            [address_line1_check] => pass
+                            [address_zip_check] => pass
+                            [cvc_check] => pass
+                            [funding] => debit
+                            [fingerprint] => yF9v0lhinfvbfs6q
+                            [three_d_secure] => optional
+                            [name] => 
+                            [tokenization_method] => 
+                            [dynamic_last4] => 
+                        )
+
+                    [client_secret] => src_client_secret_Xkd3tghdLe6RQT2qfIuVhKpi
+                    [created] => 1621925452
+                    [currency] => 
+                    [customer] => cus_JY01howS4KcTDk
+                    [flow] => none
+                    [livemode] => 
+                    [metadata] => stdClass Object
+                        (
+                        )
+
+                    [owner] => stdClass Object
+                        (
+                            [address] => stdClass Object
+                                (
+                                    [city] => test
+                                    [country] => IN
+                                    [line1] => test
+                                    [line2] => 
+                                    [postal_code] => 395006
+                                    [state] => AS
+                                )
+
+                            [email] => test5@gmail.com
+                            [name] => test test
+                            [phone] => 1234567890
+                            [verified_address] => 
+                            [verified_email] => 
+                            [verified_name] => 
+                            [verified_phone] => 
+                        )
+
+                    [statement_descriptor] => 
+                    [status] => chargeable
+                    [type] => card
+                    [usage] => reusable
+                )
+
+            [type] => invalid_request_error
+        )
+
+)
+
+====End Log====
+
+
+2021-05-25T06:51:28+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+customers/cus_JY01howS4KcTDk/sources request: Array
+(
+    [limit] => 100
+)
+
+====End Log====
+
+
+2021-05-25T06:51:34+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B request: Array
+(
+)
+
+====End Log====
+
+
+2021-05-25T06:51:34+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+customers/cus_JY01howS4KcTDk request: Array
+(
+    [email] => project@gmail.com
+    [description] => Name: test test, Username: project
+    [name] => test test
+    [metadata] => Array
+        (
+        )
+
+    [preferred_locales] => Array
+        (
+            [0] => en-US
+        )
+
+)
+
+====End Log====
+
+
+2021-05-25T06:51:35+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+sources/src_1Iuu6KGDUloqQNkUy2TsWiYu
+====End Log====
+
+
+2021-05-25T06:51:36+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+Info: Begin processing payment for order 542 for the amount of 25.00
+====End Log====
+
+
+2021-05-25T06:51:36+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B request: Array
+(
+    [source] => src_1Iuu6KGDUloqQNkUy2TsWiYu
+    [setup_future_usage] => off_session
+)
+
+====End Log====
+
+
+2021-05-25T06:51:36+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B/confirm request: Array
+(
+    [source] => src_1Iuu6KGDUloqQNkUy2TsWiYu
+)
+
+====End Log====
+
+
+2021-05-25T06:51:38+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B request: Array
+(
+)
+
+====End Log====
+
+
+2021-05-25T06:51:39+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+customers/cus_JY01howS4KcTDk request: Array
+(
+    [email] => project@gmail.com
+    [description] => Name: test test, Username: project
+    [name] => test test
+    [metadata] => Array
+        (
+        )
+
+    [preferred_locales] => Array
+        (
+            [0] => en-US
+        )
+
+)
+
+====End Log====
+
+
+2021-05-25T06:51:39+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+sources/src_1Iuu6KGDUloqQNkUy2TsWiYu
+====End Log====
+
+
+2021-05-25T06:51:40+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+Info: Begin processing payment for order 542 for the amount of 25.00
+====End Log====
+
+
+2021-05-25T06:51:40+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B request: Array
+(
+    [source] => src_1Iuu6KGDUloqQNkUy2TsWiYu
+    [setup_future_usage] => off_session
+)
+
+====End Log====
+
+
+2021-05-25T06:51:41+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B/confirm request: Array
+(
+    [source] => src_1Iuu6KGDUloqQNkUy2TsWiYu
+)
+
+====End Log====
+
+
+2021-05-25T06:51:44+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B request: Array
+(
+)
+
+====End Log====
+
+
+2021-05-25T06:51:44+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+sources/src_1Iuu6KGDUloqQNkUy2TsWiYu
+====End Log====
+
+
+2021-05-25T06:51:45+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+Info: Begin processing payment for order 542 for the amount of 25.00
+====End Log====
+
+
+2021-05-25T06:51:45+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B request: Array
+(
+    [source] => src_1Iuu6KGDUloqQNkUy2TsWiYu
+    [setup_future_usage] => off_session
+)
+
+====End Log====
+
+
+2021-05-25T06:51:45+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B/confirm request: Array
+(
+    [source] => src_1Iuu6KGDUloqQNkUy2TsWiYu
+)
+
+====End Log====
+
+
+2021-05-25T06:51:50+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B request: Array
+(
+)
+
+====End Log====
+
+
+2021-05-25T06:51:50+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+sources/src_1Iuu6KGDUloqQNkUy2TsWiYu
+====End Log====
+
+
+2021-05-25T06:51:51+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+Info: Begin processing payment for order 542 for the amount of 25.00
+====End Log====
+
+
+2021-05-25T06:51:51+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B request: Array
+(
+    [source] => src_1Iuu6KGDUloqQNkUy2TsWiYu
+    [setup_future_usage] => off_session
+)
+
+====End Log====
+
+
+2021-05-25T06:51:52+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B/confirm request: Array
+(
+    [source] => src_1Iuu6KGDUloqQNkUy2TsWiYu
+)
+
+====End Log====
+
+
+2021-05-25T06:51:57+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B request: Array
+(
+)
+
+====End Log====
+
+
+2021-05-25T06:51:58+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+sources/src_1Iuu6KGDUloqQNkUy2TsWiYu
+====End Log====
+
+
+2021-05-25T06:51:58+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+Info: Begin processing payment for order 542 for the amount of 25.00
+====End Log====
+
+
+2021-05-25T06:51:58+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B request: Array
+(
+    [source] => src_1Iuu6KGDUloqQNkUy2TsWiYu
+    [setup_future_usage] => off_session
+)
+
+====End Log====
+
+
+2021-05-25T06:51:59+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B/confirm request: Array
+(
+    [source] => src_1Iuu6KGDUloqQNkUy2TsWiYu
+)
+
+====End Log====
+
+
+2021-05-25T06:52:00+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B request: Array
+(
+)
+
+====End Log====
+
+
+2021-05-25T06:52:00+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+sources/src_1Iuu6KGDUloqQNkUy2TsWiYu
+====End Log====
+
+
+2021-05-25T06:52:01+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+Info: Begin processing payment for order 542 for the amount of 25.00
+====End Log====
+
+
+2021-05-25T06:52:01+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B request: Array
+(
+    [source] => src_1Iuu6KGDUloqQNkUy2TsWiYu
+    [setup_future_usage] => off_session
+)
+
+====End Log====
+
+
+2021-05-25T06:52:02+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+payment_intents/pi_1Iuu1jGDUloqQNkUUUIjUy5B/confirm request: Array
+(
+    [source] => src_1Iuu6KGDUloqQNkUy2TsWiYu
+)
+
+====End Log====
+
+
+2021-05-25T06:52:03+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+Error: stdClass Object
+(
+    [error] => stdClass Object
+        (
+            [message] => Non-INR transactions in India should have shipping/billing address outside India. More info here: https://stripe.com/docs/india-exports
+            [payment_intent] => stdClass Object
+                (
+                    [id] => pi_1Iuu1jGDUloqQNkUUUIjUy5B
+                    [object] => payment_intent
+                    [amount] => 2500
+                    [amount_capturable] => 0
+                    [amount_received] => 0
+                    [application] => 
+                    [application_fee_amount] => 
+                    [canceled_at] => 
+                    [cancellation_reason] => 
+                    [capture_method] => automatic
+                    [charges] => stdClass Object
+                        (
+                            [object] => list
+                            [data] => Array
+                                (
+                                )
+
+                            [has_more] => 
+                            [total_count] => 0
+                            [url] => /v1/charges?payment_intent=pi_1Iuu1jGDUloqQNkUUUIjUy5B
+                        )
+
+                    [client_secret] => pi_1Iuu1jGDUloqQNkUUUIjUy5B_secret_iMscN6yhfLoBPRdu7yTBbn8T9
+                    [confirmation_method] => automatic
+                    [created] => 1621925167
+                    [currency] => gbp
+                    [customer] => cus_JY01howS4KcTDk
+                    [description] => Read More - Order 542
+                    [invoice] => 
+                    [last_payment_error] => stdClass Object
+                        (
+                            [message] => Non-INR transactions in India should have shipping/billing address outside India. More info here: https://stripe.com/docs/india-exports
+                            [shield_action] => reject
+                            [shield_failure] => 1
+                            [source] => stdClass Object
+                                (
+                                    [id] => src_1Iuu6KGDUloqQNkUy2TsWiYu
+                                    [object] => source
+                                    [amount] => 
+                                    [card] => stdClass Object
+                                        (
+                                            [exp_month] => 2
+                                            [exp_year] => 2022
+                                            [last4] => 5556
+                                            [country] => US
+                                            [brand] => Visa
+                                            [address_line1_check] => pass
+                                            [address_zip_check] => pass
+                                            [cvc_check] => pass
+                                            [funding] => debit
+                                            [fingerprint] => yF9v0lhinfvbfs6q
+                                            [three_d_secure] => optional
+                                            [name] => 
+                                            [tokenization_method] => 
+                                            [dynamic_last4] => 
+                                        )
+
+                                    [client_secret] => src_client_secret_Xkd3tghdLe6RQT2qfIuVhKpi
+                                    [created] => 1621925452
+                                    [currency] => 
+                                    [customer] => cus_JY01howS4KcTDk
+                                    [flow] => none
+                                    [livemode] => 
+                                    [metadata] => stdClass Object
+                                        (
+                                        )
+
+                                    [owner] => stdClass Object
+                                        (
+                                            [address] => stdClass Object
+                                                (
+                                                    [city] => test
+                                                    [country] => IN
+                                                    [line1] => test
+                                                    [line2] => 
+                                                    [postal_code] => 395006
+                                                    [state] => AS
+                                                )
+
+                                            [email] => test5@gmail.com
+                                            [name] => test test
+                                            [phone] => 1234567890
+                                            [verified_address] => 
+                                            [verified_email] => 
+                                            [verified_name] => 
+                                            [verified_phone] => 
+                                        )
+
+                                    [statement_descriptor] => 
+                                    [status] => chargeable
+                                    [type] => card
+                                    [usage] => reusable
+                                )
+
+                            [type] => invalid_request_error
+                        )
+
+                    [livemode] => 
+                    [metadata] => stdClass Object
+                        (
+                            [customer_name] => test test
+                            [customer_email] => test5@gmail.com
+                            [order_id] => 542
+                            [site_url] => http://localhost/project
+                            [payment_type] => recurring
+                        )
+
+                    [next_action] => 
+                    [on_behalf_of] => 
+                    [payment_method] => 
+                    [payment_method_options] => stdClass Object
+                        (
+                            [card] => stdClass Object
+                                (
+                                    [installments] => 
+                                    [network] => 
+                                    [request_three_d_secure] => automatic
+                                )
+
+                        )
+
+                    [payment_method_types] => Array
+                        (
+                            [0] => card
+                        )
+
+                    [receipt_email] => 
+                    [review] => 
+                    [setup_future_usage] => off_session
+                    [shipping] => stdClass Object
+                        (
+                            [address] => stdClass Object
+                                (
+                                    [city] => test
+                                    [country] => IN
+                                    [line1] => test
+                                    [line2] => 
+                                    [postal_code] => 395006
+                                    [state] => AS
+                                )
+
+                            [carrier] => 
+                            [name] => test test
+                            [phone] => 
+                            [tracking_number] => 
+                        )
+
+                    [source] => 
+                    [statement_descriptor] => 
+                    [statement_descriptor_suffix] => 
+                    [status] => requires_payment_method
+                    [transfer_data] => 
+                    [transfer_group] => 
+                )
+
+            [shield_action] => reject
+            [shield_failure] => 1
+            [source] => stdClass Object
+                (
+                    [id] => src_1Iuu6KGDUloqQNkUy2TsWiYu
+                    [object] => source
+                    [amount] => 
+                    [card] => stdClass Object
+                        (
+                            [exp_month] => 2
+                            [exp_year] => 2022
+                            [last4] => 5556
+                            [country] => US
+                            [brand] => Visa
+                            [address_line1_check] => pass
+                            [address_zip_check] => pass
+                            [cvc_check] => pass
+                            [funding] => debit
+                            [fingerprint] => yF9v0lhinfvbfs6q
+                            [three_d_secure] => optional
+                            [name] => 
+                            [tokenization_method] => 
+                            [dynamic_last4] => 
+                        )
+
+                    [client_secret] => src_client_secret_Xkd3tghdLe6RQT2qfIuVhKpi
+                    [created] => 1621925452
+                    [currency] => 
+                    [customer] => cus_JY01howS4KcTDk
+                    [flow] => none
+                    [livemode] => 
+                    [metadata] => stdClass Object
+                        (
+                        )
+
+                    [owner] => stdClass Object
+                        (
+                            [address] => stdClass Object
+                                (
+                                    [city] => test
+                                    [country] => IN
+                                    [line1] => test
+                                    [line2] => 
+                                    [postal_code] => 395006
+                                    [state] => AS
+                                )
+
+                            [email] => test5@gmail.com
+                            [name] => test test
+                            [phone] => 1234567890
+                            [verified_address] => 
+                            [verified_email] => 
+                            [verified_name] => 
+                            [verified_phone] => 
+                        )
+
+                    [statement_descriptor] => 
+                    [status] => chargeable
+                    [type] => card
+                    [usage] => reusable
+                )
+
+            [type] => invalid_request_error
+        )
+
+)
+
+====End Log====
+
+
+2021-05-25T06:52:05+00:00 DEBUG 
+====Stripe Version: 5.2.0====
+====Start Log====
+customers/cus_JY01howS4KcTDk/sources request: Array
+(
+    [limit] => 100
+)
+
+====End Log====
+
+
